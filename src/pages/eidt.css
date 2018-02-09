@@ -1,0 +1,81 @@
+.contain{
+	padding: 0  5vw ;]
+	box-sizing: border-box;
+	margin-top: 10vw;
+}
+.position{
+	width: 100%;
+	height: 25vw;
+}
+.fastclick{
+	display: block;	
+	background-color: #f5f5f5;	
+	height: 20vw;
+	width: 100%;
+	text-align: center;
+	line-height: 20vw;
+	font-size: 4.5vw;
+	margin-bottom: 10vw;
+}
+.fastclick>span{
+	color: #00b38a;
+}
+.small{
+	margin-top: 5vw; 
+	margin-bottom: 3vw;
+	color: #dddddd;
+	font-size: 4vw;
+}
+.bigtitle{
+	width: 100%;
+	height: 30vw;
+	background-color: #e8e8e8;
+	font-size: 5vw;
+	color:#00b38a ;
+	text-align: center;
+	line-height: 30vw;
+
+}
+.iiiii{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+.want{
+	width: 80%;
+	height: 15vw;
+	border-bottom: 1px solid #e8e8e8;
+
+}
+.returnbtn{
+	width: 20%;
+	background-color: #f5f5f5;
+	color: #233;
+	height: 15vw;
+	border: none;
+}
+.positionTypes{
+	width: 100%;
+	padding-left:5vw; 
+}
+.positionTypes>li{
+	border-bottom: 1px solid #e8e8e8;
+	height: 10vw;
+	line-height: 10vw;
+	font-size: 4.5vw;
+}
+.color{
+	color: #666;
+	margin-left: 5vw;
+	font-size:3.5vw;
+}
+.start{
+	position:relative;
+	bottom: -31vw;
+	width: 100%;
+	height: 10vw;
+	background-color: #00b38a;
+	border: none;
+	border-radius:3vw ; 
+	color: white;
+}

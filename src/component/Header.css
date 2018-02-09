@@ -1,0 +1,12 @@
+.header{
+	width: 100%;
+	height: 11vw;
+	background-color: #00b38a;
+	color: white;
+	text-align: center;
+	line-height: 11vw;
+}
+.header>p{
+	font-size: 5vw
+
+}

@@ -1,0 +1,46 @@
+.wrap{
+	padding: 5vw;
+}
+.yes{
+	color: #bbb;
+}
+.btn1{
+	width: 100%;
+	height: 10vw;
+	background-color: #00b38a;
+	color: white;
+	border: none;
+	margin-top:10vw;
+	border-radius: 5px; 
+
+}
+.btn2{
+	width: 100%;
+	height: 10vw;
+	background-color: #00b38a;
+	color: white;
+	border: none;
+	margin-top:10vw;
+	border-radius: 5px; 
+
+}
+.box{
+	display: flex;
+	justify-content: space-between;
+}
+.span{
+	display: block;
+	    height: 5vw;
+    margin-top: 10vw;
+    font-size: 5vw;
+    border-bottom: 1px solid #bbb;
+    padding-bottom: 3vw;
+}
+.left{
+	margin-left: 2vw; 
+}
+.fixed{
+	position:fixed;
+	bottom: 0vw;
+	left: 0vw;
+}
